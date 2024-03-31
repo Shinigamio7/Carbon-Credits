@@ -1,0 +1,8 @@
+llama-index-embeddings-gemini
+llama-index-llms-gemini
+llama-index
+google-generativeai
+streamlit
+streamlit_ace
+flow-py-sdk
+IPython
